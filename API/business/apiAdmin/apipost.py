@@ -3,7 +3,7 @@
 # Api层
 
 import requests
-class RequestHandler:
+class RequestHandler:1111
     def get(self, url, **kwargs):
         """封装get方法"""
         # 获取请求参数
